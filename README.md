@@ -17,7 +17,7 @@
   rough images or outlines has been explored for paired and unpaired image data.
 
 ## Pipeline
-![System Pipeline](Pipeline.png)
+![System Pipeline](pipeline.png)
 
 ## How to run?
 ```
